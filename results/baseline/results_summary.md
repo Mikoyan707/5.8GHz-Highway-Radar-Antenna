@@ -68,3 +68,5 @@ Design Goal
 The purpose of the parasitic-element investigation is therefore to determine whether the baseline antenna can be modified to produce:
 
 Higher forward gain and directivity with better beam control, while maintaining good impedance matching near 5.8 GHz.
+
+Author: TEJAS K P
