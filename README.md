@@ -21,3 +21,6 @@ Determine Vehicle Presence / Direction
 Automatic High-Beam Control
         ↓
 High Beam ON / OFF
+
+
+Author: TEJAS K P
