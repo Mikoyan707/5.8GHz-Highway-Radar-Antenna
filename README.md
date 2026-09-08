@@ -1,26 +1,22 @@
-# 5.8GHz-Highway-Radar-Antenna
-Design and optimization of a 5.8 GHz microstrip patch array antenna for highway vehicle detection and automatic high-beam control.
-# 5.8 GHz Directional Antenna for Highway Vehicle Sensing
+# 📡 5.8 GHz Highway Radar Antenna
 
-A CST Studio Suite simulation project investigating a **5.8 GHz directional antenna** for potential short-range highway vehicle sensing applications, with the long-term goal of supporting an **automatic high-beam control system**.
+> **Directional microstrip antenna design and parasitic-element optimization for highway vehicle sensing**
 
-The project begins with a baseline antenna design and investigates the use of **parasitic elements** to improve radiation characteristics such as gain, directivity, and beam control.
+A CST Studio Suite simulation project exploring a **5.8 GHz directional microstrip patch antenna** for potential short-range vehicle sensing applications.
+
+The long-term concept is to use directional sensing as part of an **automatic high-beam control system**.
+
+> ⚠️ **Note:** 5.8 GHz is used in this project as a practical simulation and demonstration platform. The work is intended as an antenna-design proof of concept rather than a replacement for automotive 77 GHz radar systems.
 
 ---
 
-## Project Objective
+## 🎯 Application Concept
 
-The intended application is a highway safety system where an antenna could be used as part of a sensing system to detect vehicles in the relevant direction.
-
-A possible application is:
-
+```text
 Vehicle Detection
-        ↓
-Determine Vehicle Presence / Direction
-        ↓
-Automatic High-Beam Control
-        ↓
-High Beam ON / OFF
-
-
-Author: TEJAS K P
+       ↓
+Determine Vehicle Direction / Presence
+       ↓
+Decision System
+       ↓
+Automatic High-Beam ON / OFF
